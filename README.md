@@ -2,4 +2,4 @@ Freebie Alert is a side project that I built that helps notify others about free
 
 https://matt-tang.github.io/freebie-alert/
 
-![image](https://user-images.githubusercontent.com/38430052/103500906-96bcbd80-4e1a-11eb-87f9-d51d57f3aec4.png)
+![image](https://user-images.githubusercontent.com/38430052/103812612-c3482380-502c-11eb-9581-320ab1080fb3.png)
